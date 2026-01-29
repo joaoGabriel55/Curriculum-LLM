@@ -1,0 +1,117 @@
+                 ALISON THORPE
+                   17a Christmas Way, Abingdon, Oxon OX99 2PQ · 07759 123456
+          alisonthorpe@inter.net · linkedin.com/alison-thorpe-xxxx · github.com/alithorpe
+
+
+
+
+
+
+TECHNICAL SKILLS
+
+   Programming: C, C++, C#, Go, Java, JavaScript,   Miscellaneous: Windows, Mac OS, Linux
+    PHP and Python.                                   OS, Docker, Git, Kubernetes, AWS, Google
+   Databases: CouchDB, InterBase, MongoDB,           Cloud, Bash and Microsoft Office (Access,
+                                                      Excel, PowerPoint, Word).
+    MySQL and SQL Server.
+
+
+EDUCATION
+
+       SEPTEMBER 2018–JULY 2022
+       BSC (HONS) COMPUTER SCIENCE WITH INFORMATION SYSTEMS, UNIVERSITY OF ABINGDON
+
+         Predicted a 2.1. Key modules include: high-performance computing and distributed systems
+          (67%), database systems implementation (68%); and advanced machine learning (66%).
+
+       SEPTEMBER 2012–JUNE 2018
+       A LEVELS AND GCSES, JOHN REDMOND HIGH SCHOOL, IPSWICH
+         A LEVELS: maths (A), English (B) and information technology (A)
+         GCSES: nine GCSEs with grades 9–7 and A*–B including English literature (8), English
+
+          language (7) and maths (9).
+
+
+WORK EXPERIENCE
+
+       SEPTEMBER 2020–JULY 2021
+       INDUSTRIAL PLACEMENT DEVELOPER, QUESTION TECHNOLOGIES (HYBRID WORKING)
+         Contributed to development of the March 2021 update for Question Technologies’ flagship
+          software, Question Answerer 4, primarily coding using C and C#.
+         Responsible for implementing improvements to the user interface and conducted in-depth
+
+          research into methods to increase the software’s accessibility functionality.
+         Demonstrated strong teamworking skills with colleagues in the development team, which
+          was necessary for discussing requirements and solutions to complex problems.
+
+       JULY–AUGUST 2019
+       IT SUPPORT INTERN, GROUP MTI, OXFORD (OFFICE BASED)
+         Shadowed senior IT support technicians to support ten of Group MTI’s clients.
+
+         Worked closely with suppliers to resolve operational issues.
+         Installed and configured computer hardware systems and IT software.
+         Monitored IT networks to maintain availability to internal and external users.
+         Troubleshot desktop PCs, laptops and mobile devices.
+
+--- page 1 ---
+
+      DECEMBER 2018
+      VOLUNTEER, TECH4KIDS
+
+         Assisted in teaching the basics of coding to students at St Benjamin’s School, Didcot.
+
+      OCTOBER 2016–AUGUST 2018
+      RETAIL ASSISTANT, SAINSBURY’S, IPSWICH
+         Won Employee of the Month award for outstanding customer service.
+
+         Deputised for the department manager. Resolved problems such as customer complaints and
+          colleagues’ difficulties with retail systems.
+         Trained and supported two new members of staff on how to use the retail point of sale, cash
+          management and order management systems.
+
+         Dealt with customer enquiries in person, via email and over the phone, strengthening client-
+          facing skills, commercial awareness and product knowledge.
+
+
+PROJECTS AND HACKATHONS
+
+      NOVEMBER 2021
+      UNIVERSITY CHALLENGE VIRTUAL HACKATHON (GITHUB.COM/ALITHORPE/GAME)
+         Represented the University of Abingdon at a three-day hackathon, in a team of five students.
+
+         Developed gamification to help school students explore different STEM careers.
+         Pitched the game to a jury of IT companies and came second, securing an invite to the
+          Champions of Champions hackathon.
+
+
+      APRIL–OCTOBER 2019
+      FINDMYGLASSES ANDROID APPLICATION (GITHUB.COM/ALITHORPE/GLASSES)
+         Working in a team of two at a hackathon, developed an application for Android OS in 36
+          hours. This app used GPS tracking to find a user’s glasses. This was written in Java.
+
+         This demo was later fleshed out and released on the Play Store in October 2019.
+          Downloaded 1,467 times since release.
+
+
+ONLINE COURSES
+
+  AWS Educate. Completed five Cloud Career Pathways: Cloud Computing 101, Machine Learning,
+   Data Scientist, Cybersecurity Specialist and DevOps Engineer. Each pathway involved an average of
+   25 hours’ content.
+
+  Accenture Digital Skills: User Experience. Dedicated two hours a week for three weeks in total.
+   Topics included: Why is user experience important; User experience basics; and Tools and testing.
+
+
+INTERESTS
+
+  Grade 8 Oboe. Performed in the university woodwind band. Served as treasurer from 2019–20.
+  Basketball. Member of the women’s first team at university, including league and BUCS games.
+
+  Hiking. Previously hiked up Ben Nevis, Scafell Pike and Snowdon in the UK, as well as completing the
+   Inca Trail to Machu Picchu in Peru.
+
+REFERENCES AVAILABLE UPON REQUEST.
+
+--- page 2 ---
+
