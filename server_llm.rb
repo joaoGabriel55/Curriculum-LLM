@@ -1,6 +1,5 @@
 require 'ruby_llm'
 require 'pathname'
-require "pdf-reader"
 require 'json'
 require './src/normalize_resume_tool.rb'
 require './src/pdf_to_text.rb'
@@ -18,12 +17,12 @@ doc_file_path = "resumes/#{ARGV[0]}"
 pdf_to_text("#{doc_file_path}.pdf", "#{doc_file_path}.txt")
 
 RubyLLM.configure do |config|
-  config.ollama_api_base = "http://localhost:11434/v1"
-  # config.openrouter_api_key = ENV['OPENROUTER_API_KEY']
+  # config.ollama_api_base = "http://localhost:11434/v1"
+  config.openrouter_api_key = ENV['OPENROUTER_API_KEY']
 end
 
-# chat = RubyLLM.chat(model: 'anthropic/claude-opus-4.5', provider: :openrouter)
-chat = RubyLLM.chat(model: 'qwen2.5:14b', provider: :ollama)
+chat = RubyLLM.chat(model: 'anthropic/claude-opus-4.5', provider: :openrouter)
+# chat = RubyLLM.chat(model: 'qwen2.5:14b', provider: :ollama)
   .with_tool(NormalizeResumeTool)
   .on_tool_call do |tool_call|
     # Called when the AI decides to use a tool

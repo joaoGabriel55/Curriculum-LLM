@@ -1,3 +1,6 @@
+require 'json'
+require 'ruby_llm'
+
 class NormalizeResumeTool < RubyLLM::Tool
   description "Receives structured and normalized recruitment data extracted from a resume, following the CurriculumExtraction schema"
 
@@ -141,6 +144,8 @@ class NormalizeResumeTool < RubyLLM::Tool
   end
 
   def execute(args)
+    File.write("outputs/#{Time.now.utc.iso8601}.json", JSON.pretty_generate(args))
+
     {
       status: "ok",
       received_at: Time.now.utc.iso8601

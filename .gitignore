@@ -1,2 +1,5 @@
 resumes/*.pdf
 resumes/*.txt
+
+# Ignore output files
+outputs/*.json
